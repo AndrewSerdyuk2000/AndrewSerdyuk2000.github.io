@@ -152,8 +152,8 @@ style="width:100%; border-radius:5px;">
  
 </tr>
 
-</table>
-  <!--
+
+  <!-- </table>
 Закрываем таблицу контейнера
 </td>
 </tr>
