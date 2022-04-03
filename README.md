@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
-<title>Название сайта</title>
+<title>Личный блог</title>
 </head>
 <body>
 <!--Создаём таблицу контейнер, которой задаём следующее
