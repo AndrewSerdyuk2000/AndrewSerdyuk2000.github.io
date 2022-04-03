@@ -44,12 +44,12 @@ style="width:100%; border-radius:5px;">
 <!--Создаём строку таблицы-->
 <tr>
 <!--Создаём столбец таблицы-->
-<th>
+
 <!--Содержание ячейки столбца-->
 <h1>Andrew's list</h1>
 <h3>At working</h3>
 <!--Закрываем таблицу-->
-</th>
+
 </tr>
  </table>
 
@@ -121,8 +121,8 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <td
 bgcolor="#73738c"
 align="center">
-<h3>Text Text Text Text Text</h3>
-<p>Text Text Text Text Text</p>
+<h3>Proverka</h3>
+<p>AAAAAAAAAAAAAt</p>
 <!--Закрываем ячейку с общей информацией
 и таблицу основного контента-->
 </td>
