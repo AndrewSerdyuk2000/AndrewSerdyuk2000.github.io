@@ -51,7 +51,7 @@ style="width:100%; border-radius:5px;">
 <!--Закрываем таблицу-->
 </th>
 </tr>
-
+ </table>
 
 <!--ОСНОВНОЙ КОНТЕНТ-->
 
@@ -66,23 +66,23 @@ cellpadding="10"
 style="width:100%; border-radius:5px;">
 <!--Создаём строку-->
 <tr>
+  
 <!--Создаём ячейку
 Оформление:
 rowspan="2" - объединяем две ячейки в одну.
 Число объединяемых ячеек по числу ячеек в сайдбаре.
 style="width:80%" - основной контент занимает 80% всей площади,
 оставшиеся 20% для сайдбара-->
+  
 <td
 rowspan="2"
 style="width:80%">
 <h2>PagePage</h2>
 <!--Начинаем абзац с красной строки-->
 <p style="text-indent:20px">
-Personal blog. In work for N term..</p>
+Personal blog. At work for N term..</p>
 
-<p style="text-indent:20px">teeeeeeeXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXTTTTTTTTTTTTTTTTTTTTTTTTT.</p>
+<p style="text-indent:20px">Text.</p>
 <!--Закрываем ячейку-->
 </td>
 
@@ -103,12 +103,12 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <!--Закрываем абзац-->
 </p>
 <p>
-<a href="">
+<a href="https://vk.com/vkandreyt">
 <img src="https://img.icons8.com/clouds/2x/vk-com.png">
 <span style="margin-left:5px;">Page 1</span;></a>
 </p>
 <p>
-<a href="">
+<a href="https://vk.com/vkandreyt">
 <img src="https://img.icons8.com/clouds/2x/vk-com.png">
 <span style="margin-left:5px;">Page 2</span></a>
 </p>
@@ -119,7 +119,7 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <tr>
 <!--Ячейка с дополнительной информацией-->
 <td
-bgcolor="#e6e6fa"
+bgcolor="#73738c"
 align="center">
 <h3>Text Text Text Text Text</h3>
 <p>Text Text Text Text Text</p>
@@ -141,11 +141,15 @@ style="width:100%; border-radius:5px;">
 <!--Создаём строку.-->
 <tr>
 <!--Создаём столбец-->
-<th>
+  
+
+  
 <h3>DOWN</h3>
 <!--Закрываем таблицу подвала. При желании в подвале можно
 сделать несколько строк и столбцов-->
-</th>
+  
+
+  
 </tr>
 </table>
 <!--Закрываем таблицу контейнера-->
