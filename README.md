@@ -102,11 +102,13 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <span style="margin-left:10px;">VK</span></a>
 <!--Закрываем абзац-->
 </p>
+  
 <p>
 <a href="https://vk.com/vkandreyt">
 <img src="https://img.icons8.com/clouds/2x/vk-com.png">
 <span style="margin-left:5px;">Page 1</span;></a>
 </p>
+  
 <p>
 <a href="https://vk.com/vkandreyt">
 <img src="https://img.icons8.com/clouds/2x/vk-com.png">
@@ -125,9 +127,10 @@ align="center">
 <p>There is information above</p>
 <!--Закрываем ячейку с общей информацией
 и таблицу основного контента-->
-</td>
-</tr>
+<!-- </td>
+</tr> 
 </table>
+-->
 
 <!--ПОДВАЛ-->
 
@@ -141,15 +144,11 @@ style="width:100%; border-radius:5px;">
 <!--Создаём строку.-->
 <tr>
 <!--Создаём столбец-->
-  
-
-  
+ 
 <h3>DOWN</h3>
 <!--Закрываем таблицу подвала. При желании в подвале можно
 сделать несколько строк и столбцов-->
-  
-
-  
+ 
 </tr>
 <!--
 </table>
