@@ -106,7 +106,7 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <p>
 <a href="https://vk.com/vkandreyt">
 <img src="https://img.icons8.com/clouds/2x/vk-com.png">
-<span style="margin-left:5px;">Page 1</span;></a>
+<span style="margin-left:5px;">Page 1</a>
 </p>
   
 <p>
