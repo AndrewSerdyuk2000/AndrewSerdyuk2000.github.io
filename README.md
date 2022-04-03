@@ -121,8 +121,8 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <td
 bgcolor="#73738c"
 align="center">
-<h3>Proverka</h3>
-<p>AAAAAAAAAAAAAt</p>
+<h3>Info stend</h3>
+<p>There is information above</p>
 <!--Закрываем ячейку с общей информацией
 и таблицу основного контента-->
 </td>
@@ -151,10 +151,12 @@ style="width:100%; border-radius:5px;">
 
   
 </tr>
+<!--
 </table>
-<!--Закрываем таблицу контейнера-->
+Закрываем таблицу контейнера
 </td>
 </tr>
 </table>
 </body>
 </html>
+-->
