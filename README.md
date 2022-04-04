@@ -58,7 +58,7 @@ style="width:100%; border-radius:5px;">
 Оформление как и в предыдущей таблице-->
 
 <table
-
+<img src="https://disk.yandex.ru/i/QzHUXaT-2PKMEw" width="400" height="400" alt="Автор сайта">
 border="1"
 bgcolor="#e6e6fa"
 cellpadding="10"
@@ -74,7 +74,6 @@ style="width:80%" - основной контент занимает 80% все�
 оставшиеся 20% для сайдбара-->
   
 <td
-<img src="https://disk.yandex.ru/i/QzHUXaT-2PKMEw">
 rowspan="2"
 style="width:80%">
 <h2>PagePage</h2>
