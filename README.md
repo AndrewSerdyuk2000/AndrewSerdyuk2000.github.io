@@ -57,8 +57,8 @@ style="width:100%; border-radius:5px;">
 Оформление как и в предыдущей таблице-->
 
 <table
-img src="https://downloader.disk.yandex.ru/preview/e77d71a7cb162d70cf1c15b2e3c09867eba7ba6a780b155b86f4c5af7ccc85cd/624b4d23/qQt9kwTi4TAieViWHa7wuCEuIsOoLsYu-psk8ZTZ54SCTk2VDNJFHocZrYDKikM5sSFsZbJn1FrsZKlzlsKd8A%3D%3D?uid=0&filename=photo.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=600x600">
-<border="1"
+img src="https://downloader.disk.yandex.ru/preview/e77d71a7cb162d70cf1c15b2e3c09867eba7ba6a780b155b86f4c5af7ccc85cd/624b4d23/qQt9kwTi4TAieViWHa7wuCEuIsOoLsYu-psk8ZTZ54SCTk2VDNJFHocZrYDKikM5sSFsZbJn1FrsZKlzlsKd8A%3D%3D?uid=0&filename=photo.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=600x600"
+border="1"
 bgcolor="#e6e6fa"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
