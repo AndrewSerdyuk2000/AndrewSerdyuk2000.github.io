@@ -1,7 +1,7 @@
-<html lang="en">
+<html lang="ru">
 <head>
 <meta charset="utf-8" />
-<title>Suite name</title>
+<title>Мой сайт</title>
 </head>
 <body>
   
@@ -16,7 +16,7 @@ style="width:60%;" - добавляем стилевое свойства, де�
   
 <table
 border="1"
-align="center"
+<!--align="center"-->
 rules="rows"
 style="width:60%;">
 <!--Создаём строку-->
