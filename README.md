@@ -62,7 +62,6 @@ style="width:100%; border-radius:5px;">
 border="1"
 bgcolor="#e6e6fa"
 cellpadding="10"
-<img src="https://sun9-39.userapi.com/impf/Z26gVF1WdfgzvYCff-tIkQMIrsWnuTGOpTDPtg/i1mAf6tudeA.jpg?size=810x1080&quality=95&sign=2592a4d65c89c648399d49ac490ba96a&type=album">
 style="width:100%; border-radius:5px;">
 <!--Создаём строку-->
 <tr>
