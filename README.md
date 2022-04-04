@@ -17,9 +17,8 @@ style="width:60%;" - добавляем стилевое свойства, де�
 border="1"
 width="100%"
 rules="rows">
-<!--Создаём ячейку строки-->
-<td>
-
+<tr>
+  <tr>
   
 <!--TEXT-->
 <!--В ячейке строки создаём ещё одну таблицу для шапки сайта.
@@ -59,6 +58,7 @@ style="width:100%; border-radius:5px;">
 Оформление как и в предыдущей таблице-->
 
 <table
+background="https://sun9-39.userapi.com/impf/Z26gVF1WdfgzvYCff-tIkQMIrsWnuTGOpTDPtg/i1mAf6tudeA.jpg?size=810x1080&quality=95&sign=2592a4d65c89c648399d49ac490ba96a&type=album"
 border="1"
 bgcolor="#e6e6fa"
 cellpadding="10"
