@@ -132,7 +132,7 @@ align="center">
 </td>
 </tr> 
 
-</table>
+              <!--</table>-->
 
 
 <!--ПОДВАЛ-->
