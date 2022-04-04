@@ -75,7 +75,7 @@ style="width:80%" - основной контент занимает 80% все�
 оставшиеся 20% для сайдбара-->
   
 <td
-<img src="https://sun9-39.userapi.com/impf/Z26gVF1WdfgzvYCff-tIkQMIrsWnuTGOpTDPtg/i1mAf6tudeA.jpg?size=810x1080&quality=95&sign=2592a4d65c89c648399d49ac490ba96a&type=album">
+<img src="https://disk.yandex.ru/i/QzHUXaT-2PKMEw">
 rowspan="2"
 style="width:80%">
 <h2>PagePage</h2>
