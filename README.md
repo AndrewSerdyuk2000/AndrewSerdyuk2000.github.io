@@ -1,7 +1,7 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
-<title>Мой сайт</title>
+<title>Тест сайт</title>
 </head>
 <body>
   
@@ -46,7 +46,7 @@ style="width:100%; border-radius:5px;">
 <!--Создаём столбец таблицы-->
 <!--Содержание ячейки столбца-->
 <h1>Andrew's list</h1>
-<h3>At working</h3>
+<h3>Что-то типо блога</h3>
 <!--Закрываем таблицу-->
 
 </tr>
