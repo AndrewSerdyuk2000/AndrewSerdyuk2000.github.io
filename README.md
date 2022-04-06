@@ -24,12 +24,12 @@ background="https://i.giphy.com/media/26sLZEvpiuemMSM6C3/giphy.webp"
 bgcolor="#5F9EA0"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
+ 
 <!--Создаём строку таблицы-->
 <tr>
-
 <!--Создаём столбец таблицы-->
 <!--Содержание ячейки столбца-->
-  <td bgcolor="#5F9EA0" align="center">
+<td bgcolor="#5F9EA0" align="center">
 <h1>Сайт чтобы получить автомат по проге</h1>
 <h3>А чё нет</h3>
 <!--Закрываем таблицу-->
@@ -44,7 +44,7 @@ border="1"
 bgcolor="#32CD32"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
-<img src="//">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8BdxQo_cZK57yJLC4uadj7DpOWlOcqSbTjw&usqp=CAU">
 
 <!--Создаём строку-->
 <tr>
