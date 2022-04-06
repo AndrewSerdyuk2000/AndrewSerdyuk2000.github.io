@@ -7,11 +7,7 @@ body { background: url(https://img5.goodfon.ru/wallpaper/nbig/c/f9/more-volny-pr
 </head>
 <body>
 
-<table
-bgcolor="#5F9EA0"
-border="1"
-width="100%"
-rules="rows">
+
 <tr>
 
 <table
