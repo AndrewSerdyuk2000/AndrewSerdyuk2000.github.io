@@ -31,8 +31,8 @@ style="width:100%; border-radius:5px;" - добавляем "резиновос�
   
 <table
 width="100%"
-border="30"
-background="https://"
+border="1"
+background="https://vk.com/away.php?utf=1&to=https%3A%2F%2Fi.pinimg.com%2F736x%2Fe3%2Fc9%2Fab%2Fe3c9ab82ca9a13462530d101fe7e52c8.jpg"
 bgcolor="#7FFFD4"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
