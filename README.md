@@ -27,7 +27,7 @@ style="width:100%; border-radius:25px;">
 
 <img src="https://zawindows.ru/wp-content/uploads/2020/08/dinosaur-game-6.gif">
 
-<tr>
+
 <!--Создаём ячейку
 Оформление:
 rowspan="2" - объединяем две ячейки в одну.
