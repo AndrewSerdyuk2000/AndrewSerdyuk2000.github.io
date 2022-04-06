@@ -13,7 +13,7 @@ width="100%"
 height="100%"
 border="1"
 cellpadding="10"
-style="width:100%; border-radius:25px;">
+style="width:100%; border-radius:60px;">
 
 <td bgcolor="#006400" align="center">
 <h1>Сайт чтобы получить автомат по проге</h1>
