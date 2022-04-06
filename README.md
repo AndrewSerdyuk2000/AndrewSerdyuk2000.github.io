@@ -38,7 +38,7 @@ style="width:80%" - основной контент занимает 80% все�
  
 <td
 rowspan="2"
-style="width:70%">
+style="width:50%">
 
 
 <img src="https://i.ibb.co/VHKHr99/norm.jpg">
