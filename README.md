@@ -7,25 +7,15 @@ body { background: url(https://img5.goodfon.ru/wallpaper/nbig/c/f9/more-volny-pr
 </head>
 <body>
 
-<!--
-border="1" - рамка вокруг контейнера.
-align="center" - размещаем контейнер по центру экрана.
-rules="rows" - убираем двойную рамку.
-style="width:60%;" - добавляем стилевое свойства, делающее
-контейнер и весь сайт "резиновым"-->
-
 <table
 border="1"
 width="100%"
 rules="rows">
 <tr>
 
-<!--TEXT-->
 <!--В ячейке строки создаём ещё одну таблицу для шапки сайта.
 Оформление:
-border="1" - двойная рамка толщиной в 1px
 background="images/168.png" - картинка в шапке сайта, если требуется.
-Адрес картинки вы должны вставить свой.
 bgcolor="#7FFFD4" - фоновый цвет в шапке, если нет картинки.
 cellpadding="10" - отступ содержимого от рамки не менее 10px.
 style="width:100%; border-radius:5px;" - добавляем "резиновость"
@@ -35,7 +25,7 @@ style="width:100%; border-radius:5px;" - добавляем "резиновос�
 width="100%"
 height="40%"
 border="1"
-background="https://cdn.akamai.steamstatic.com/steam/apps/1305540/extras/%D0%B4%D0%B5%D0%B4_bynhj2.gif?t=1597247353"
+background="https://sun9-42.userapi.com/impf/hDJUhGIZMF7VduMVuZ0tCE8wdrNdg7H1irg6Dw/3dApGHeSi0M.jpg?size=810x1080&quality=95&sign=fbe6ee5b256b0df75302e40ca939b112&type=album"
 
 bgcolor="#7FFFD4"
 cellpadding="10"
