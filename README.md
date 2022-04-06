@@ -41,10 +41,8 @@ style="width:80%" - основной контент занимает 80% все�
  
  
 <td
-width="100%"
-height="100%"
 rowspan="2"
-style="width:100%">
+style="width:80%">
 
 
 <img src="https://i.ibb.co/VHKHr99/norm.jpg">
