@@ -90,7 +90,7 @@ style="width:80%">
 <!--Ссылка на страницу сайта-->
 <a href="https://vk.com/vkandreyt">
 <!--Картинка маркера перед названием страницы-->
-<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1649254627~hmac=ea9aa4e287a8e36858125db59f984341" width="50" height="50"><br>
+<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1649254627~hmac=ea9aa4e287a8e36858125db59f984341" width="150" height="150"><br>
 
 <!--Название страницы
 style="margin-left:5px;" - отступ названия от маркера-->
@@ -100,14 +100,14 @@ style="margin-left:5px;" - отступ названия от маркера-->
   
 <p>
 <a href="https://t.me/lookkest">
-<img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1649254629~hmac=f4cc3561e0819aa8ff5fc9ffec46dc44" width="50" height="50">
+<img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1649254629~hmac=f4cc3561e0819aa8ff5fc9ffec46dc44" width="150" height="150">
 <br>
 <span style="margin-left:5px;" align="center">Telegram</span></a>
 </p>
   
 <p>
 <a href="https://vk.com/id0">
-<img src="https://www.meme-arsenal.com/memes/2d92517562ae339e3a372b10487bfef0.jpg" width="50" height="50">
+<img src="https://www.meme-arsenal.com/memes/2d92517562ae339e3a372b10487bfef0.jpg" width="150" height="150">
 <br>
 <span style="margin-left:5px;" align="center">Click</span></a>
 </p>
