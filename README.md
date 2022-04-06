@@ -14,17 +14,12 @@ width="100%"
 rules="rows">
 <tr>
 
-<!-bgcolor="#7FFFD4" - фоновый цвет в шапке, если нет картинки.
-cellpadding="10" - отступ содержимого от рамки не менее 10px.
-style="width:100%; border-radius:5px;" - добавляем "резиновость"
-и закругляем уголки рамки-->
-
 <table
-       bgcolor="#5F9EA0"
+bgcolor="#5F9EA0"
 width="100%"
 height="40%"
 border="1"
-background="https://"
+background="https://i.giphy.com/media/26sLZEvpiuemMSM6C3/giphy.webp"
 
 bgcolor="#5F9EA0"
 cellpadding="10"
