@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8" />
 <style>
-body { background: url(https://i.pinimg.com/736x/e3/c9/ab/e3c9ab82ca9a13462530d101fe7e52c8.jpg)no-repeat; }
+body { background: url(https://img5.goodfon.ru/wallpaper/nbig/c/f9/more-volny-priroda-1.jpg); }
 </style>
 </head>
 <body>
@@ -33,7 +33,7 @@ style="width:100%; border-radius:5px;" - добавляем "резиновос�
 
 <table
 width="100%"
-height="30%"
+height="40%"
 border="1"
 background="https://cdn.akamai.steamstatic.com/steam/apps/1305540/extras/%D0%B4%D0%B5%D0%B4_bynhj2.gif?t=1597247353"
 
