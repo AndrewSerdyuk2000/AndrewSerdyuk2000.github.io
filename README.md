@@ -19,8 +19,6 @@ bgcolor="#5F9EA0"
 width="40%"
 height="100%"
 border="1"
-
-
 bgcolor="#5F9EA0"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
@@ -56,7 +54,7 @@ style="width:80%" - основной контент занимает 80% все�
 
 <td
 rowspan="2"
-style="width:80%">
+style="width:100%">
 
 <img src="https://i.ibb.co/VHKHr99/norm.jpg" alt="podskazka:Sochi" border="0">
 <h2>PagePage</h2>
