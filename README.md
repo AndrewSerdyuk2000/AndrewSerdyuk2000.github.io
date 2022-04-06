@@ -18,7 +18,7 @@ cellpadding="10"
 style="width:100%; border-radius:5px;">
  
 <tr>
-<td bgcolor="#5F9EA0" align="center">
+<td bgcolor="#5F9EA0" align="center" style="width:100%; border-radius:5px;">
 <h1>Сайт чтобы получить автомат по проге</h1>
 <h3>А чё нет</h3>
 
