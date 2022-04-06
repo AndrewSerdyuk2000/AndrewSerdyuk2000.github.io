@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8" />
 <style>
-body { background: url(https://i.pinimg.com/736x/e3/c9/ab/e3c9ab82ca9a13462530d101fe7e52c8.jpg); }
+body { background: url(https://i.pinimg.com/736x/e3/c9/ab/e3c9ab82ca9a13462530d101fe7e52c8.jpg)no-repeat; }
 </style>
 </head>
 <body>
