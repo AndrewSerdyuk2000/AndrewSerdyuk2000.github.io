@@ -37,8 +37,8 @@ At work...</p>
 <a href="https://vk.com/vkandreyt">
 <img src="https://i.ibb.co/dfxc2PV/image.png" width="50" height="50">
 <span style="margin-left:10px;">VK</span></a>
-</p>
-<br>
+<br></p>
+
 
 <p>
 <a href="https://t.me/lookkest">
