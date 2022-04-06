@@ -87,25 +87,21 @@ Personal blog. At work for N term..</p>
 </td>
 
 <!--САЙДБАР-->
-
 <!--Создаём ячейку сайдбара-->
 <td bgcolor="#e6e6fa">
 <h3>Menu</h3>
-<!--Абзац для ссылки на страницу сайта-->
 <p>
-<!--Ссылка на страницу сайта-->
 <a href="https://vk.com/vkandreyt">
-<!--Картинка маркера перед названием страницы-->
-<img src="https://img.icons8.com/clouds/2x/vk-com.png">
+<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1649254627~hmac=ea9aa4e287a8e36858125db59f984341" width="50" height="50">
 <!--Название страницы
-style="margin-left:5px;" - отступ названия от маркера-->
+style="margin-left:5px;"
 <span style="margin-left:10px;">VK</span></a>
 <!--Закрываем абзац-->
 </p>
 
 <p>
 <a href="https://t.me/lookkest">
-<img src=""https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1649254629~hmac=f4cc3561e0819aa8ff5fc9ffec46dc44" width="50" height="50">
+<img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1649254629~hmac=f4cc3561e0819aa8ff5fc9ffec46dc44" width="50" height="50">
 <span style="margin-left:5px;">Telegram</span></a>
 </p>
 
@@ -115,10 +111,6 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <span style="margin-left:5px;">Click</span></a>
 </p>
 <!--Закрываем строку Меню-->
-<!--
-</td>
-</tr>
--->
 <!--Создаём строку с дополнительной информацией-->
 <tr>
 <!--Ячейка с дополнительной информацией-->
@@ -148,13 +140,3 @@ style="width:100%; border-radius:5px;">
 сделать несколько строк и столбцов-->
 <p>Создано при поддержки себя</p>
 </tr>
-
-
-<!-- </table>
-Закрываем таблицу контейнера
-</td>
-</tr>
-</table>
-</body>
-</html>
--->
