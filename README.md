@@ -13,25 +13,14 @@ width="100%"
 height="100%"
 border="1"
 cellpadding="10"
-style="width:100%; border-radius:60px;">
+style="width:100%; border-radius:10px;">
 <tr>
 <td bgcolor="#006400" align="center">
 <h1>Сайт чтобы получить автомат по проге</h1>
 <h3>А чё нет</h3>
  </td>
 <!--ОСНОВНОЙ КОНТЕНТ-->
-<!--Создаём ячейку
-Оформление:
-rowspan="2" - объединяем две ячейки в одну.
-Число объединяемых ячеек по числу ячеек в сайдбаре.
-style="width:80%" - основной контент занимает 80% всей площади,
-оставшиеся 20% для сайдбара-->
- 
- 
 
-
-
-<img src="https://i.ibb.co/VHKHr99/norm.jpg">
 <h2>PagePage</h2>
 <!--Начинаем абзац с красной строки-->
 <p style="text-indent:20px">
@@ -65,4 +54,5 @@ Personal blog. At work for N term..</p>
 </p>
 <!--Закрываем строку Меню-->
 <!--Создаём строку с дополнительной информацией-->
+ <img src="https://i.ibb.co/VHKHr99/norm.jpg">
 
