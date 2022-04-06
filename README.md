@@ -16,8 +16,8 @@ rules="rows">
 
 <table
 bgcolor="#5F9EA0"
-width="100%"
-height="40%"
+width="40%"
+height="100%"
 border="1"
 background="https://i.giphy.com/media/26sLZEvpiuemMSM6C3/giphy.webp"
 
