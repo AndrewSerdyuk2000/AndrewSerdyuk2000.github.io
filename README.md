@@ -83,11 +83,9 @@ Personal blog. At work for N term..</p>
 <p>
 <a href="https://vk.com/vkandreyt">
 <img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1649254627~hmac=ea9aa4e287a8e36858125db59f984341" width="50" height="50">
-<!--Название страницы
-style="margin-left:5px;"
 <span style="margin-left:10px;">VK</span></a>
-<!--Закрываем абзац-->
 </p>
+<br>
 
 <p>
 <a href="https://t.me/lookkest">
