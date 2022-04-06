@@ -19,7 +19,7 @@ bgcolor="#5F9EA0"
 width="40%"
 height="100%"
 border="1"
-background="https://i.giphy.com/media/26sLZEvpiuemMSM6C3/giphy.webp"
+
 
 bgcolor="#5F9EA0"
 cellpadding="10"
@@ -44,7 +44,7 @@ border="1"
 bgcolor="#32CD32"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8BdxQo_cZK57yJLC4uadj7DpOWlOcqSbTjw&usqp=CAU">
+<img src="https://i.giphy.com/media/26sLZEvpiuemMSM6C3/giphy.webp">
 
 <!--Создаём строку-->
 <tr>
