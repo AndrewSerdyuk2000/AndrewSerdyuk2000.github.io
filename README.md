@@ -33,7 +33,7 @@ style="width:100%; border-radius:5px;" - добавляем "резиновос�
   
 <table
 width="100%"
-height="30%"
+height="40%"
 border="1"
 background="https://cdn.akamai.steamstatic.com/steam/apps/1305540/extras/%D0%B4%D0%B5%D0%B4_bynhj2.gif?t=1597247353"
 
@@ -77,20 +77,28 @@ style="width:80%">
 <!--Закрываем ячейку-->
 </td>
 
-
-<!--САЙДБАР-->
-<!--Создаём ячейку сайдбара-->
-
-<td bgcolor="#e6e6fa"
+<!--Создаём таблицу подвала-->
+<table
+border="1"
+bgcolor="#7FFFD4"
+height="100"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<!--Создаём строку.-->
+<tr>
+<!--Создаём столбец-->
+ 
+<h3>MENU</h3>
+<!--Закрываем таблицу подвала. При желании в подвале можно
+сделать несколько строк и столбцов-->
+  <p>Создано при поддержки себя</p>
+</tr>
+-------------
+<td width="100" bgcolor="#e6e6fa"
 <span style="margin-left:5px;" align="center"><h1>Menu</h1></span></a>
-
-
-<!--Абзац для ссылки на страницу сайта-->
 <p>
-<!--Ссылка на страницу сайта-->
 <a href="https://vk.com/vkandreyt">
-<!--Картинка маркера перед названием страницы-->
-<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1649254627~hmac=ea9aa4e287a8e36858125db59f984341" width="150" height="150"><br>
+<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1649254627~hmac=ea9aa4e287a8e36858125db59f984341" width="50" height="50"><br>
 
 <!--Название страницы
 style="margin-left:5px;" - отступ названия от маркера-->
@@ -100,22 +108,18 @@ style="margin-left:5px;" - отступ названия от маркера-->
   
 <p>
 <a href="https://t.me/lookkest">
-<img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1649254629~hmac=f4cc3561e0819aa8ff5fc9ffec46dc44" width="150" height="150">
+<img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1649254629~hmac=f4cc3561e0819aa8ff5fc9ffec46dc44" width="50" height="50">
 <br>
 <span style="margin-left:5px;" align="center">Telegram</span></a>
 </p>
   
 <p>
 <a href="https://vk.com/id0">
-<img src="https://www.meme-arsenal.com/memes/2d92517562ae339e3a372b10487bfef0.jpg" width="150" height="150">
+<img src="https://www.meme-arsenal.com/memes/2d92517562ae339e3a372b10487bfef0.jpg" width="100" height="100">
 <br>
 <span style="margin-left:5px;" align="center">Click</span></a>
 </p>
-<!--Закрываем строку Меню-->
- <!-- 
-</td>
-</tr>
-  -->
+
 <!--Создаём строку с дополнительной информацией-->
 <tr>
 <!--Ячейка с дополнительной информацией-->
@@ -129,29 +133,3 @@ align="center">
 </td>
 </tr> 
 
-<!--Создаём таблицу подвала-->
-<table
-border="1"
-bgcolor="#7FFFD4"
-height="100"
-cellpadding="10"
-style="width:100%; border-radius:5px;">
-<!--Создаём строку.-->
-<tr>
-<!--Создаём столбец-->
- 
-<h3>DOWN</h3>
-<!--Закрываем таблицу подвала. При желании в подвале можно
-сделать несколько строк и столбцов-->
-  <p>Создано при поддержки себя</p>
-</tr>
-
-
-  <!-- </table>
-Закрываем таблицу контейнера
-</td>
-</tr>
-</table>
-</body>
-</html>
--->
