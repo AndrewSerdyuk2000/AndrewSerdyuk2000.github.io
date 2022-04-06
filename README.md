@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8" />
 <style>
-body { background: url(https://i.ibb.co/Lp1NrMf/image.jpg); }
+body { background: url(); }
 </style>
 </head>
 <body>
@@ -73,12 +73,4 @@ Personal blog. At work for N term..</p>
 </p>
 <!--Закрываем строку Меню-->
 <!--Создаём строку с дополнительной информацией-->
-<tr>
-<!--Ячейка с дополнительной информацией-->
-<td
-bgcolor="#00FF7F"
-align="center">
-<h3>Info stend</h3>
-<p>There is information above</p>
-</td>
-</tr>
+
