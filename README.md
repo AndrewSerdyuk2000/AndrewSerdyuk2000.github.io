@@ -52,7 +52,7 @@ style="width:100%; border-radius:5px;">
 для основного контента-->
 
 <table
-border="1"
+border="12"
 bgcolor="#32CD32"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
