@@ -13,7 +13,7 @@ bgcolor="#006400"
 width="100%"
 height="100%"
 border="1"
-cellpadding="55"
+cellpadding="10"
 style="width:100%; border-radius:25px;">
  
  
@@ -24,11 +24,7 @@ style="width:100%; border-radius:25px;">
 <h3>А чё нет</h3>
 
 <!--ОСНОВНОЙ КОНТЕНТ-->
-<table
-border="1"
-bgcolor="#32CD32"
-cellpadding="55"
-style="width:100%; border-radius:25px;">
+
 <img src="https://zawindows.ru/wp-content/uploads/2020/08/dinosaur-game-6.gif">
 
 <tr>
