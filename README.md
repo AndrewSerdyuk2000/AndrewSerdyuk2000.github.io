@@ -104,15 +104,15 @@ style="margin-left:5px;" - отступ названия от маркера-->
 </p>
 
 <p>
-<a href="https://vk.com/vkandreyt">
-<img src="https://img.icons8.com/clouds/2x/vk-com.png">
-<span style="margin-left:5px;">Page 1</span></a>
+<a href="https://t.me/lookkest">
+<img src=""https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1649254629~hmac=f4cc3561e0819aa8ff5fc9ffec46dc44" width="50" height="50">
+<span style="margin-left:5px;">Telegram</span></a>
 </p>
 
 <p>
-<a href="https://vk.com/vkandreyt">
-<img src="https://img.icons8.com/clouds/2x/vk-com.png">
-<span style="margin-left:5px;">Page 2</span></a>
+<a href="https://vk.com/id0">
+<img src="https://www.meme-arsenal.com/memes/2d92517562ae339e3a372b10487bfef0.jpg" width="100" height="100">
+<span style="margin-left:5px;">Click</span></a>
 </p>
 <!--Закрываем строку Меню-->
 <!--
