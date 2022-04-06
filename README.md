@@ -14,11 +14,11 @@ height="100%"
 border="1"
 cellpadding="10"
 style="width:100%; border-radius:60px;">
-
+<tr>
 <td bgcolor="#006400" align="center">
 <h1>Сайт чтобы получить автомат по проге</h1>
 <h3>А чё нет</h3>
-
+ </td>
 <!--ОСНОВНОЙ КОНТЕНТ-->
 <!--Создаём ячейку
 Оформление:
