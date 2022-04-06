@@ -28,7 +28,9 @@ style="width:100%; border-radius:5px;">
 border="1"
 bgcolor="#32CD32"
 cellpadding="10"
-style="width:100%; border-radius:5px;">
+style="width:100%; border-radius:5px;"
+width="100%"
+height="100%">
 <img src="https://zawindows.ru/wp-content/uploads/2020/08/dinosaur-game-6.gif">
 
 <tr>
