@@ -9,7 +9,7 @@ body { background: url(https://i.ibb.co/Lp1NrMf/image.jpg); }
 
 <tr>
 <table
-bgcolor="#5F9EA0"
+bgcolor="#006400"
 width="100%"
 height="100%"
 border="1"
@@ -19,7 +19,7 @@ style="width:100%; border-radius:5px;">
  
 <tr>
  
-<td bgcolor="#5F9EA0" align="center">
+<td bgcolor="#006400" align="center">
 <h1>Сайт чтобы получить автомат по проге</h1>
 <h3>А чё нет</h3>
 
@@ -27,7 +27,7 @@ style="width:100%; border-radius:5px;">
 <table
 border="1"
 bgcolor="#32CD32"
-cellpadding="10"
+cellpadding="5"
 style="width:100%; border-radius:5px;">
 <img src="https://zawindows.ru/wp-content/uploads/2020/08/dinosaur-game-6.gif">
 
@@ -57,7 +57,7 @@ Personal blog. At work for N term..</p>
 
 <!--САЙДБАР-->
 <!--Создаём ячейку сайдбара-->
-<td bgcolor="#e6e6fa">
+<td bgcolor="#008000">
 <h3>Menu</h3>
 <p>
 <a href="https://vk.com/vkandreyt">
@@ -82,7 +82,7 @@ Personal blog. At work for N term..</p>
 <tr>
 <!--Ячейка с дополнительной информацией-->
 <td
-bgcolor="#73738c"
+bgcolor="#00FF7F"
 align="center">
 <h3>Info stend</h3>
 <p>There is information above</p>
