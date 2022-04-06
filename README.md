@@ -58,20 +58,20 @@ Personal blog. At work for N term..</p>
 <h3>Menu</h3>
 <p>
 <a href="https://vk.com/vkandreyt">
-<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1649254627~hmac=ea9aa4e287a8e36858125db59f984341" width="50" height="50">
+<img src="https://i.ibb.co/dfxc2PV/image.png" width="50" height="50">
 <span style="margin-left:10px;">VK</span></a>
 </p>
 <br>
 
 <p>
 <a href="https://t.me/lookkest">
-<img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1649254629~hmac=f4cc3561e0819aa8ff5fc9ffec46dc44" width="50" height="50">
+<img src="https://i.ibb.co/LxGxk5F/image.png" width="50" height="50">
 <span style="margin-left:5px;">Telegram</span></a>
 </p>
 
 <p>
 <a href="https://vk.com/id0">
-<img src="https://www.meme-arsenal.com/memes/2d92517562ae339e3a372b10487bfef0.jpg" width="100" height="100">
+<img src="https://i.ibb.co/TwSrvyg/image.jpg" width="100" height="100">
 <span style="margin-left:5px;">Click</span></a>
 </p>
 <!--Закрываем строку Меню-->
