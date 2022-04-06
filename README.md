@@ -18,6 +18,7 @@ style="width:100%; border-radius:5px;">
  
  
 <tr>
+ 
 <td bgcolor="#5F9EA0" align="center">
 <h1>Сайт чтобы получить автомат по проге</h1>
 <h3>А чё нет</h3>
@@ -44,7 +45,7 @@ rowspan="2"
 style="width:100%">
 
 
-<img src="https://i.ibb.co/VHKHr99/norm.jpg" border="0">
+<img src="https://i.ibb.co/VHKHr99/norm.jpg">
 <h2>PagePage</h2>
 <!--Начинаем абзац с красной строки-->
 <p style="text-indent:20px">
@@ -85,7 +86,5 @@ bgcolor="#73738c"
 align="center">
 <h3>Info stend</h3>
 <p>There is information above</p>
-<!--Закрываем ячейку с общей информацией
-и таблицу основного контента-->
 </td>
 </tr>
