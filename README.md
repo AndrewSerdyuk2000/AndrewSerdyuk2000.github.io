@@ -1,7 +1,6 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
-<title>SUITE</title>
 </head>
 <body>
   
@@ -42,23 +41,19 @@ style="width:100%; border-radius:5px;">
 
 <!--Создаём столбец таблицы-->
 <!--Содержание ячейки столбца-->
-<h1>Типо сайт (халям балям (с) Beatles)</h1>
-<h3>Что-то типо блога</h3>
+<h1>Сайт чтобы получить автомат по проге</h1>
+<h3>А чё нет</h3>
 <!--Закрываем таблицу-->
-
 </tr>
-  
- <!--</table>-->
 
 <!--ОСНОВНОЙ КОНТЕНТ-->
 
 <!--В этой же ячейке контейнера создаём ещё одну таблицу
-для основного контента.
-Оформление как и в предыдущей таблице-->
+для основного контента-->
 
 <table
 border="1"
-bgcolor="#e6e6fa"
+bgcolor="green"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
  <img src="https://sun9-39.userapi.com/impf/Z26gVF1WdfgzvYCff-tIkQMIrsWnuTGOpTDPtg/i1mAf6tudeA.jpg?size=810x1080&quality=95&sign=2592a4d65c89c648399d49ac490ba96a&type=album" width="600" height="600">
