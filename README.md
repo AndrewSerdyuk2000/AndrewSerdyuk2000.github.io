@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8" />
 <style>
-body { background: url(); }
+body { background: url(https://i.ibb.co/Lp1NrMf/image.jpg); }
 </style>
 </head>
 <body>
@@ -24,10 +24,6 @@ style="width:100%; border-radius:25px;">
 <h3>А чё нет</h3>
 
 <!--ОСНОВНОЙ КОНТЕНТ-->
-
-<img src="https://zawindows.ru/wp-content/uploads/2020/08/dinosaur-game-6.gif">
-
-
 <!--Создаём ячейку
 Оформление:
 rowspan="2" - объединяем две ячейки в одну.
