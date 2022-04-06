@@ -8,6 +8,16 @@ body { background: url(https://img5.goodfon.ru/wallpaper/nbig/c/f9/more-volny-pr
 <body>
 
 <tr>
+<table
+bgcolor="#5F9EA0"
+width="100%"
+height="100%"
+border="1"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+ 
+ 
+<tr>
 <td bgcolor="#5F9EA0" align="center">
 <h1>Сайт чтобы получить автомат по проге</h1>
 <h3>А чё нет</h3>
