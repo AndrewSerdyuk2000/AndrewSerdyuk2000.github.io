@@ -38,11 +38,7 @@ rowspan="2" - объединяем две ячейки в одну.
 style="width:80%" - основной контент занимает 80% всей площади,
 оставшиеся 20% для сайдбара-->
 
-<td
-rowspan="8"
-style="width:100%">
-
-<img src="https://i.ibb.co/VHKHr99/norm.jpg" alt="podskazka:Sochi" border="0">
+<img src="https://i.ibb.co/VHKHr99/norm.jpg" border="0">
 <h2>PagePage</h2>
 <!--Начинаем абзац с красной строки-->
 <p style="text-indent:20px">
