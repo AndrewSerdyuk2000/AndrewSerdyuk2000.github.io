@@ -31,7 +31,7 @@ style="width:100%; border-radius:5px;" - добавляем "резиновос�
   
 <table
 width="100%"
-border="1"
+border="30"
 background="https://"
 bgcolor="#7FFFD4"
 cellpadding="10"
