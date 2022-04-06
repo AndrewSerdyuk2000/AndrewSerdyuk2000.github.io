@@ -8,6 +8,7 @@ body { background: url(https://i.ibb.co/Lp1NrMf/image.jpg); }
 <body>
 
 <tr>
+ 
 <table
 bgcolor="#006400"
 width="100%"
@@ -15,7 +16,6 @@ height="100%"
 border="1"
 cellpadding="10"
 style="width:100%; border-radius:25px;">
- 
  
 <tr>
  
