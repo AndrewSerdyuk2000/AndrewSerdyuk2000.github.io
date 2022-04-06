@@ -7,12 +7,10 @@ body { background: url(https://img5.goodfon.ru/wallpaper/nbig/c/f9/more-volny-pr
 </head>
 <body>
 
-
 <tr>
-
 <table
 bgcolor="#5F9EA0"
-width="40%"
+width="100%"
 height="100%"
 border="1"
 bgcolor="#5F9EA0"
