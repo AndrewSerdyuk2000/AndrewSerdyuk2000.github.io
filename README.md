@@ -53,4 +53,4 @@ At work...</p>
 </p>
 <!--Закрываем строку Меню-->
 <!--Создаём строку с дополнительной информацией-->
- <img src="https://i.ibb.co/VHKHr99/norm.jpg">
+ <img src="https://i.ibb.co/wBZTrDv/s.jpg">
