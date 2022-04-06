@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8" />
 <style>
-body { background: url(https://img5.goodfon.ru/wallpaper/nbig/c/f9/more-volny-priroda-1.jpg); }
+body { background: url(https://i.ibb.co/Lp1NrMf/image.jpg); }
 </style>
 </head>
 <body>
@@ -42,7 +42,7 @@ style="width:80%" - основной контент занимает 80% все�
  
 <td
 rowspan="2"
-style="width:80%">
+style="width:70%">
 
 
 <img src="https://i.ibb.co/VHKHr99/norm.jpg">
