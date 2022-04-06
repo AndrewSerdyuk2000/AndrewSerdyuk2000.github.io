@@ -24,16 +24,15 @@ style="width:100%; border-radius:10px;">
 <h2>PagePage</h2>
 <!--Начинаем абзац с красной строки-->
 <p style="text-indent:20px">
-Personal blog. At work for N term..</p>
+At work...</p>
 
-<p style="text-indent:20px">Text.</p>
+<p style="text-indent:20px">В работе...</p>
 <!--Закрываем ячейку-->
-</td>
 
 <!--САЙДБАР-->
 <!--Создаём ячейку сайдбара-->
 <td bgcolor="#008000">
-<h3>Menu</h3>
+<h3>Контакты:</h3>
 <p>
 <a href="https://vk.com/vkandreyt">
 <img src="https://i.ibb.co/dfxc2PV/image.png" width="50" height="50">
@@ -55,4 +54,3 @@ Personal blog. At work for N term..</p>
 <!--Закрываем строку Меню-->
 <!--Создаём строку с дополнительной информацией-->
  <img src="https://i.ibb.co/VHKHr99/norm.jpg">
-
