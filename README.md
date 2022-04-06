@@ -1,12 +1,14 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
+<style>
+  body { background: url(https://i.pinimg.com/736x/e3/c9/ab/e3c9ab82ca9a13462530d101fe7e52c8.jpg); }
+</style>
 </head>
 <body>
   
-<!--Создаём таблицу контейнер, которой задаём следующее
-оформление:
-border="1" - рамка вокруг контейнера. Увеличив число, можно увеличить толщину рамки.
+<!--
+border="1" - рамка вокруг контейнера.
 align="center" - размещаем контейнер по центру экрана.
 rules="rows" - убираем двойную рамку.
 style="width:60%;" - добавляем стилевое свойства, делающее
@@ -31,9 +33,9 @@ style="width:100%; border-radius:5px;" - добавляем "резиновос�
   
 <table
 width="100%"
-       height="100%"
+height="10%"
 border="1"
-background="https://vk.com/away.php?utf=1&to=https%3A%2F%2Fi.pinimg.com%2F736x%2Fe3%2Fc9%2Fab%2Fe3c9ab82ca9a13462530d101fe7e52c8.jpg"
+background="https://i.pinimg.com/736x/e3/c9/ab/e3c9ab82ca9a13462530d101fe7e52c8.jpg"
 bgcolor="#7FFFD4"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
