@@ -8,26 +8,25 @@ body { background: url(https://img5.goodfon.ru/wallpaper/nbig/c/f9/more-volny-pr
 <body>
 
 <table
+       bgcolor="#5F9EA0"
 border="1"
 width="100%"
 rules="rows">
 <tr>
 
-<!--В ячейке строки создаём ещё одну таблицу для шапки сайта.
-Оформление:
-background="images/168.png" - картинка в шапке сайта, если требуется.
-bgcolor="#7FFFD4" - фоновый цвет в шапке, если нет картинки.
+<!-bgcolor="#7FFFD4" - фоновый цвет в шапке, если нет картинки.
 cellpadding="10" - отступ содержимого от рамки не менее 10px.
 style="width:100%; border-radius:5px;" - добавляем "резиновость"
 и закругляем уголки рамки-->
 
 <table
+       bgcolor="#5F9EA0"
 width="100%"
 height="40%"
 border="1"
 background="https://sun9-42.userapi.com/impf/hDJUhGIZMF7VduMVuZ0tCE8wdrNdg7H1irg6Dw/3dApGHeSi0M.jpg?size=810x1080&quality=95&sign=fbe6ee5b256b0df75302e40ca939b112&type=album"
 
-bgcolor="#7FFFD4"
+bgcolor="#5F9EA0"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
 <!--Создаём строку таблицы-->
@@ -35,6 +34,7 @@ style="width:100%; border-radius:5px;">
 
 <!--Создаём столбец таблицы-->
 <!--Содержание ячейки столбца-->
+  
 <h1>Сайт чтобы получить автомат по проге</h1>
 <h3>А чё нет</h3>
 <!--Закрываем таблицу-->
