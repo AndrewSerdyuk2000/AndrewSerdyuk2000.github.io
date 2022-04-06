@@ -13,7 +13,7 @@ width="80%"
 height="100%"
 border="1"
 cellpadding="10"
-style="width:100%; border-radius:10px;">
+style="width:80%; border-radius:10px;">
 <tr>
 <td bgcolor="#006400" align="center">
 <h1>В работе...</h1>
