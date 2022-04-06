@@ -28,9 +28,7 @@ style="width:100%; border-radius:5px;">
 border="1"
 bgcolor="#32CD32"
 cellpadding="10"
-style="width:100%; border-radius:5px;"
-width="100%"
-height="100%">
+style="width:100%; border-radius:5px;">
 <img src="https://zawindows.ru/wp-content/uploads/2020/08/dinosaur-game-6.gif">
 
 <tr>
@@ -43,6 +41,8 @@ style="width:80%" - основной контент занимает 80% все�
  
  
 <td
+width="100%"
+height="100%"
 rowspan="2"
 style="width:100%">
 
