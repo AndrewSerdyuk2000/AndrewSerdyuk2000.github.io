@@ -16,14 +16,13 @@ cellpadding="10"
 style="width:100%; border-radius:10px;">
 <tr>
 <td bgcolor="#006400" align="center">
-<h1>Сайт чтобы получить автомат по проге</h1>
-<tr><h3>А чё нет</h3>
+<h1>В работе...</h1>
+<h3>А чё нет</h3>
 
- </td>
+</td>
 <!--ОСНОВНОЙ КОНТЕНТ-->
 
-<h2>PagePage</h2>
-<!--Начинаем абзац с красной строки-->
+<h2>07.04.2022</h2>
 <p style="text-indent:20px">
 At work...</p>
 
