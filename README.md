@@ -33,9 +33,10 @@ style="width:100%; border-radius:5px;" - добавляем "резиновос�
   
 <table
 width="100%"
-height="10%"
+height="30%"
 border="1"
-background="https://i.pinimg.com/736x/e3/c9/ab/e3c9ab82ca9a13462530d101fe7e52c8.jpg"
+background="https://cdn.akamai.steamstatic.com/steam/apps/1305540/extras/%D0%B4%D0%B5%D0%B4_bynhj2.gif?t=1597247353"
+
 bgcolor="#7FFFD4"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
@@ -55,11 +56,11 @@ style="width:100%; border-radius:5px;">
 для основного контента-->
 
 <table
-border="12"
+border="1"
 bgcolor="#32CD32"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
- <img src="https://sun9-39.userapi.com/impf/Z26gVF1WdfgzvYCff-tIkQMIrsWnuTGOpTDPtg/i1mAf6tudeA.jpg?size=810x1080&quality=95&sign=2592a4d65c89c648399d49ac490ba96a&type=album" width="600" height="600">
+ <img src="//">
 
 <!--Создаём строку-->
 <tr>
@@ -74,6 +75,8 @@ style="width:80%" - основной контент занимает 80% все�
 <td
 rowspan="2"
 style="width:80%">
+
+<img src="https://i.ibb.co/VHKHr99/norm.jpg" alt="podskazka:Sochi" border="0">
 <h2>PagePage</h2>
 <!--Начинаем абзац с красной строки-->
 <p style="text-indent:20px">
