@@ -56,11 +56,10 @@ style="width:100%; border-radius:5px;">
 для основного контента-->
 
 <table
-border="1"
-bgcolor="#32CD32"
-cellpadding="10"
+border="4"
+
+cellpadding="0"
 style="width:100%; border-radius:5px;">
- <img src="//">
 
 <!--Создаём строку-->
 <tr>
@@ -71,48 +70,46 @@ rowspan="2" - объединяем две ячейки в одну.
 Число объединяемых ячеек по числу ячеек в сайдбаре.
 style="width:80%" - основной контент занимает 80% всей площади,
 оставшиеся 20% для сайдбара-->
-  
 <td
 rowspan="2"
 style="width:80%">
-
 <img src="https://i.ibb.co/VHKHr99/norm.jpg" alt="podskazka:Sochi" border="0">
-<h2>PagePage</h2>
-<!--Начинаем абзац с красной строки-->
-<p style="text-indent:20px">
-Personal blog. At work for N term..</p>
-
-<p style="text-indent:20px">Text.</p>
 <!--Закрываем ячейку-->
 </td>
 
-<!--САЙДБАР-->
 
+<!--САЙДБАР-->
 <!--Создаём ячейку сайдбара-->
-<td bgcolor="#e6e6fa">
-<h3>Menu</h3>
+
+<td bgcolor="#e6e6fa"
+<span style="margin-left:5px;" align="center"><h1>Menu</h1></span></a>
+
+
 <!--Абзац для ссылки на страницу сайта-->
 <p>
 <!--Ссылка на страницу сайта-->
 <a href="https://vk.com/vkandreyt">
 <!--Картинка маркера перед названием страницы-->
-<img src="https://img.icons8.com/clouds/2x/vk-com.png">
+<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1649254627~hmac=ea9aa4e287a8e36858125db59f984341" width="50" height="50"><br>
+
 <!--Название страницы
 style="margin-left:5px;" - отступ названия от маркера-->
-<span style="margin-left:10px;">VK</span></a>
+<span style="margin-left:5px;"align="center">VK</span></a>
 <!--Закрываем абзац-->
 </p>
   
 <p>
-<a href="https://vk.com/vkandreyt">
-<img src="https://img.icons8.com/clouds/2x/vk-com.png">
-<span style="margin-left:5px;">Page 1</span></a>
+<a href="https://t.me/lookkest">
+<img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1649254629~hmac=f4cc3561e0819aa8ff5fc9ffec46dc44" width="50" height="50">
+<br>
+<span style="margin-left:5px;" align="center">Telegram</span></a>
 </p>
   
 <p>
-<a href="https://vk.com/vkandreyt">
-<img src="https://img.icons8.com/clouds/2x/vk-com.png">
-<span style="margin-left:5px;">Page 2</span></a>
+<a href="https://vk.com/id0">
+<img src="https://www.meme-arsenal.com/memes/2d92517562ae339e3a372b10487bfef0.jpg" width="50" height="50">
+<br>
+<span style="margin-left:5px;" align="center">Click</span></a>
 </p>
 <!--Закрываем строку Меню-->
  <!-- 
